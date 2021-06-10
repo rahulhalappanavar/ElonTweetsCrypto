@@ -1,0 +1,2 @@
+# ElonTweetsCrypto
+The main objective of this project is to portray the amount of effect of single tweet by Elon Musk over the crypotocurrency market. Elon musk as of right now has over 56.8 Million followers on his twitter account. This means that his single tweet has the potential to reach and influence minds of more than 50 Million people world wide with less than just 280 characters. Along with that, cryptocurrency market has become a new trend in recent years among the young generation who genrally have lack of knowledge in investing market.
